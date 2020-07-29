@@ -1,1 +1,1 @@
-# git_test
+Another git project to understand workflow.
